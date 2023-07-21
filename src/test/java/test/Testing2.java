@@ -14,6 +14,6 @@ public class Testing2 {
   }
   @Test (groups = "sanity")
   public void test5() {
-	  System.out.println("test5");
+	  System.out.println("test5.1");
   }
 }
