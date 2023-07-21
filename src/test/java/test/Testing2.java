@@ -12,4 +12,8 @@ public class Testing2 {
   public void test4() {
 	  System.out.println("test4");
   }
+  @Test (groups = "sanity")
+  public void test5() {
+	  System.out.println("test5");
+  }
 }
